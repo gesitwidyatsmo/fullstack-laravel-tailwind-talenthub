@@ -14,5 +14,11 @@
         "laravel-mix": "^6.0.6",
         "lodash": "^4.17.19",
         "postcss": "^8.1.14"
+    },
+    "dependencies": {
+        "@heroicons/react": "^2.1.5",
+        "@heroicons/vue": "^2.1.5",
+        "@tailwindcss/line-clamp": "^0.4.4",
+        "tailwindcss": "^3.4.6"
     }
 }
